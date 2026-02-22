@@ -43,7 +43,7 @@ export const recommendations = {
       '중요한 것은 진정성이다',
       '내 마음을 표현하고 내가 말할 수 있는 진실의 목소리를 내어보자',
     ],
-    btPrograms: ['광명차크라', 'PBM', '브레인리프레시'],
+    btPrograms: ['광명차크라', '파워브레인워크샵', '브레인리프레시'],
   },
   6: {
     prescriptions: [
@@ -53,7 +53,7 @@ export const recommendations = {
       '공생의 사명 받아들이기',
       '더욱 의미 있고 목적 있는 삶 살기',
     ],
-    btPrograms: ['광명차크라', 'PBM', '브레인리프레시'],
+    btPrograms: ['광명차크라', '파워브레인워크샵', '브레인리프레시'],
   },
   7: {
     prescriptions: [
@@ -64,6 +64,6 @@ export const recommendations = {
       '인내가 필요한 신체적 노력',
       '지금 이 순간 깨어있기를 통한 높은 의식차원의 연결',
     ],
-    btPrograms: ['광명차크라', 'PBM', '브레인리프레시'],
+    btPrograms: ['광명차크라', '파워브레인워크샵', '브레인리프레시'],
   },
 };
