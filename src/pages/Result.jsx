@@ -302,7 +302,7 @@ const Result = () => {
           <div className="flex flex-wrap gap-3">
             {weakestData.btPrograms.map((item, i) => (
               <div key={i} className="flex-1 min-w-[120px] p-4 bg-gradient-to-br from-slate-50 to-slate-100 rounded-xl border border-slate-200 text-center">
-                <span className="text-base font-bold text-slate-800">{item}</span>
+                <span className="text-base font-bold text-slate-800 whitespace-pre-line">{item}</span>
               </div>
             ))}
           </div>
