@@ -8,7 +8,7 @@ export const recommendations = {
       '생존을 위해 아주 어렸을 때 몸으로부터 자신을 \'분리\'함',
       '몸 안에 있을 때 비로소 자신을 보호할 수 있다',
     ],
-    btPrograms: ['광명화살', '바디프리', '클린호흡'],
+    btPrograms: ['광명차크라', '바디프리', '클린호흡'],
   },
   2: {
     prescriptions: [
@@ -17,7 +17,7 @@ export const recommendations = {
       '바다 소리 음악 듣기, 달빛 속에 걷기',
       '나는 진실을 말하고 참된 본성을 되찾는다. 나는 순수하다. 나는 깨끗하다',
     ],
-    btPrograms: ['광명화살', '바디프리', '클린호흡'],
+    btPrograms: ['광명차크라', '바디프리', '클린호흡'],
   },
   3: {
     prescriptions: [
@@ -26,7 +26,7 @@ export const recommendations = {
       '인생의 속도를 늦추고 내가 누구인지 원하는 것이 무엇인지 느껴보라',
       '자신의 힘을 찾게 되면 다른 사람에게 힘을 구하지 않는다',
     ],
-    btPrograms: ['광명화살', '마음프리 스페셜', '마음프리'],
+    btPrograms: ['광명차크라', '마음프리 스페셜', '마음프리'],
   },
   4: {
     prescriptions: [
@@ -35,7 +35,7 @@ export const recommendations = {
       '무조건적인 사랑과 용서',
       '내려놓음',
     ],
-    btPrograms: ['광명화살', '마음프리 스페셜', '마음프리'],
+    btPrograms: ['광명차크라', '마음프리 스페셜', '마음프리'],
   },
   5: {
     prescriptions: [
@@ -43,7 +43,7 @@ export const recommendations = {
       '중요한 것은 진정성이다',
       '내 마음을 표현하고 내가 말할 수 있는 진실의 목소리를 내어보자',
     ],
-    btPrograms: ['광명화살', 'PBM', '브레인리프레시'],
+    btPrograms: ['광명차크라', 'PBM', '브레인리프레시'],
   },
   6: {
     prescriptions: [
@@ -53,7 +53,7 @@ export const recommendations = {
       '공생의 사명 받아들이기',
       '더욱 의미 있고 목적 있는 삶 살기',
     ],
-    btPrograms: ['광명화살', 'PBM', '브레인리프레시'],
+    btPrograms: ['광명차크라', 'PBM', '브레인리프레시'],
   },
   7: {
     prescriptions: [
@@ -64,6 +64,6 @@ export const recommendations = {
       '인내가 필요한 신체적 노력',
       '지금 이 순간 깨어있기를 통한 높은 의식차원의 연결',
     ],
-    btPrograms: ['광명화살', 'PBM', '브레인리프레시'],
+    btPrograms: ['광명차크라', 'PBM', '브레인리프레시'],
   },
 };
